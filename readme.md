@@ -1,5 +1,7 @@
 GoodreadsCloneDocumentation
 
+DB diagram: https://dbdiagram.io/d/643c9e8e6b31947051b0570c
+
 The application has following actors
 1. User
 2. Author
