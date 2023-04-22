@@ -51,4 +51,5 @@ The application has following actors
 6. caching of data wherever applicable to reduce load times
 7. Lazy loading of data
 
-# Tech Stack
+# Implementing Real-Time fast search in React using debouncing and memoization.
+https://javascript.plainenglish.io/how-to-create-an-optimized-real-time-search-with-react-6dd4026f4fa9
