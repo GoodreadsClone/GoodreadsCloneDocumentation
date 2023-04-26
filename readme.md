@@ -51,5 +51,23 @@ The application has following actors
 6. caching of data wherever applicable to reduce load times
 7. Lazy loading of data
 
+# Current API List (will be modified ad-hoc)
+Create User
+Create Author
+Create Book
+getAllBooks
+getBookByBookId
+addBookToWantToReadListByUserId
+updateCurrentlyReadingByUserId
+getAllWantToReadsByUserId
+getUserCurrentlyReading
+getAllBooksByAuthor
+APIs that still need to be added
+
+Related to user history
+Related to user comments
+Related to comments
+Ad hoc APIs
+
 # Implementing Real-Time fast search in React using debouncing and memoization.
 https://javascript.plainenglish.io/how-to-create-an-optimized-real-time-search-with-react-6dd4026f4fa9
